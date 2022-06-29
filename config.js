@@ -42,7 +42,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = '*Stiker sedang dibuat*'
-global.packname = 'Lisabotz🍭❤'
+global.packname = 'Lisabotz-MD🍭❤'
 global.author = `AnggaKzරධ`
 global.wm = 'Lisabotz-MD🍭❤'
 global.watermark = wm
