@@ -17,7 +17,7 @@ Berapapun donasi kalian akan sangat berarti ðŸ‘
 Tengkyu
 
 Contact person Owner:
-wa.me/6285822347348 (Owner)
+wa.me/6281998425782 (Owner)
 
 *donasi via follow ig juga boleh*`
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
