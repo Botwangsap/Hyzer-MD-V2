@@ -241,9 +241,9 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
 ┃⌬ ${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length} Chat Terbanned
 ┃⌬ ${Object.entries(global.db.data.users).filter(user => user[1].banned).length} Pengguna Terbanned
 ┗━━━━━━━━━━━━━━━㉿`,
-            buttonText: 'LIST MENU',
+            buttonText: 'Klik disini',
             listType: 1,
-            footerText: "𝐬𝐢𝐥𝐚𝐡𝐤𝐚𝐧 𝐩𝐢𝐥𝐢𝐡 𝐦𝐞𝐧𝐮 𝐝𝐢𝐛𝐚𝐰𝐚𝐡",
+            footerText: "𝐬𝐢𝐥𝐚𝐡𝐤𝐚𝐧 𝐩𝐢𝐥𝐢𝐡 𝐦𝐞𝐧𝐮 𝐝𝐢𝐛𝐚𝐰𝐚𝐡 jangan lupa join group official terlebih dahulu : https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p",
             mtype: 'listMessage',
             sections: [
               {
