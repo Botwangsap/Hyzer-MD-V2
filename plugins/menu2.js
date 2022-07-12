@@ -48,7 +48,7 @@ const defaultMenu = {
   body: '│ ○ %cmd %islimit %isPremium',
   footer: '▣────────────⬣\n',
   after: `
-*%npmname@^%version*
+*Lisabotz-MD@^%version*
 ${'```%npmdesc```'}
 `,
 }
@@ -162,14 +162,14 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedButtons: [{
              urlButton: {
                displayText: '📍Instagram',
-               url: instagram
+               url: https://www.instagram.com/anggatzi123/
              }
 
            },
              {
              urlButton: {
                displayText: 'Owner',
-               PhoneNumber: '6285822347348'
+               PhoneNumber: '6281998425782'
              }
 
            },
