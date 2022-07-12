@@ -9,8 +9,8 @@ let anu = `*â”€â”€â”€â”€â”€Œ DONATE ã€ â”€â
 
 Hai ðŸ‘‹
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-â”Œã€” Donasi â€¢ Emoney ã€•
-â”œðŸ“indosat: 085822347348
+â”Œã€” Donasi â€¢ pulsa/dana ã€•
+â”œðŸ“axis: 083861079743
 â””â”€â”€â”€â”€
 Berapapun donasi kalian akan sangat berarti ðŸ‘
 
@@ -30,7 +30,7 @@ wa.me/6281998425782 (Owner)
            hydratedButtons: [{
              urlButton: {
                displayText: 'ðŸ“instagram',
-               url: instagram
+               url: https://www.instagram.com/anggatzi123/
              }
 
            },
