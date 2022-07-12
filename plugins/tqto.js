@@ -21,8 +21,8 @@ Fahri
 https://github.com/FahriAdison
 Ahmad
 https://github.com/Luigmntng
-ArullOfc
-https://github.com/Rullmem`
+AnggaKz©️
+https://www.instagram.com/anggatzi123/`
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
          hydratedTemplate: {
@@ -33,7 +33,7 @@ https://github.com/Rullmem`
            hydratedButtons: [{
              urlButton: {
                displayText: '📍Instagram',
-               url: instagram
+               url: https://www.instagram.com/anggatzi123/
              }
 
            },
