@@ -20,7 +20,7 @@ ${pickRandom(global.ngawur)}
            hydratedButtons: [{
              urlButton: {
                displayText: '📍instagram',
-               url: instagram
+               url: https://www.instagram.com/anggatzi123/
              }
 
            },
