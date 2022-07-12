@@ -48,7 +48,7 @@ const defaultMenu = {
 ⫹⫺ Penyemangat
 ⫹⫺ Ilmanhdyt
 ⫹⫺ Hyzer
-⫹⫺ ArullOfc
+⫹⫺ AnggaKz
 ╰─────────────㉿`,
 }
 
@@ -424,8 +424,8 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
            hydratedFooterText: wm,
            hydratedButtons: [{
             urlButton: {
-               displayText: 'MY WEBSITE',
-               url: 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'
+               displayText: 'My instagram',
+               url: 'https://www.instagram.com/anggatzi123/'
              }
 
            },
