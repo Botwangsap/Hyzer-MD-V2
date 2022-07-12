@@ -31,7 +31,7 @@ Runtime: ${uptime}`
            hydratedButtons: [{
              urlButton: {
                displayText: '📍instagram',
-               url: instagram
+               url: https://www.instagram.com/anggatzi123/
              }
 
            },
